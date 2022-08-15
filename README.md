@@ -12,5 +12,7 @@ in "sendValue.php" , Make sure to change the database password to your password 
 
 references:
 https://www.w3schools.com/php/php_superglobals_get.asp
-
+https://www.youtube.com/watch?v=2HVKizgcfjo
+https://www.youtube.com/watch?v=IUFNS-ngHSk&t=463s
+https://www.w3schools.com/php/php_superglobals_get.asp/
 https://www.sanwebe.com/2012/08/php-get-post-variables
