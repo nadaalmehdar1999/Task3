@@ -1,14 +1,7 @@
 # Task3
-The third task in training smart methods - the Internet of Things (IOT) path: in this task we will have : 1-ESP32 programmed with Arduino IDE 2-DHT11 sensor (temperature & humidity sensor). 3-PHP script to insert data into MySQL database. 4-MySQL database to store readings
+The third task in training smart methods web page that does a GET for a sensor value (any value of type integer) e Make a database of any type
 
-Goal: we will read the temperature and humidity values and store it in MYSQL database
-
-before running:
-
-We need to install "MYSQL database", create a database named "get_sensorval", then create a table named"sensor", with two columns(temperature,humidity) image
-
-in "sendValue.php" , Make sure to change the database password to your password or put "".
-
+-Make a web page that stores the sensor's value in the database table
 
 references:
 https://www.w3schools.com/php/php_superglobals_get.asp
