@@ -8,3 +8,9 @@ before running:
 We need to install "MYSQL database", create a database named "get_sensorval", then create a table named"sensor", with two columns(temperature,humidity) image
 
 in "sendValue.php" , Make sure to change the database password to your password or put "".
+
+
+references:
+https://www.w3schools.com/php/php_superglobals_get.asp
+
+https://www.sanwebe.com/2012/08/php-get-post-variables
